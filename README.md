@@ -19,7 +19,7 @@ Ou copie e abra: `https://wa.me/555189666526`
 
 # 🤖 Demon Bot: Seu Assistente Completo para WhatsApp
 
-![Demon Bot Banner](https://raw.githubusercontent.com/hiudyy/nazuna/main/dados/midias/menu.jpg)
+![Demon Bot Banner](https://ibb.co/Fqdq5vQH)
 
 Bem-vindo ao repositório oficial do **Demon Bot**! Este projeto é um bot avançado e multifuncional para WhatsApp, desenvolvido com a robustez do **Node.js** e a flexibilidade da biblioteca **WaLib**. Criado para otimizar sua comunicação e gestão de grupos, o nazuna Bot oferece uma vasta gama de comandos, desde funcionalidades administrativas essenciais até opções de entretenimento interativas. É a solução perfeita tanto para desenvolvedores iniciantes que buscam uma ferramenta fácil de usar quanto para usuários avançados que desejam uma plataforma altamente personalizável.
 
