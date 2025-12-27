@@ -32,7 +32,7 @@ Bem-vindo ao repositório oficial do **Demon Bot**! Este projeto é um bot avan�
 <details>
 <summary><strong>🔍 Clique para ver as principais características</strong></summary>
 
-O nazuna Bot foi projetado para ser mais do que um simples assistente; ele é um parceiro digital que simplifica suas interações no WhatsApp. Veja o que o torna tão especial:
+O Demon Bot foi projetado para ser mais do que um simples assistente; ele é um parceiro digital que simplifica suas interações no WhatsApp. Veja o que o torna tão especial:
 
 - **Configuração Simplificada e Intuitiva**: Conecte-se ao WhatsApp em questão de minutos, utilizando um prático QR code ou um código de pareamento, eliminando complexidades iniciais.
 - **Funcionalidade Abrangente e Versátil**: Gerencie grupos com eficiência, utilize ferramentas utilitárias para diversas tarefas e divirta-se com uma biblioteca crescente de comandos de entretenimento, tudo em um só lugar.
@@ -54,7 +54,7 @@ Acompanhe o progresso e a vitalidade do nazuna Bot através de métricas em temp
 
 | Ícone | Badge | Descrição Detalhada |
 |-------|-------|---------------------|
-| 🕒 | ![Última Atualização](https://img.shields.io/github/last-commit/hiudyy/nazuna?color=blue&style=flat-square) | **Última Atualização**: Indica a data do último commit realizado no repositório, mostrando a atividade recente de desenvolvimento. |
+| 🕒 | ![Última Atualização](<a href="https://ibb.co/Fqdq5vQH"><img src="https://i.ibb.co/0VzVCN0s/Wd-Ac-Urq-Tj-Qp-Sfwp9f-YGy-SD.jpg" alt="Wd-Ac-Urq-Tj-Qp-Sfwp9f-YGy-SD" border="0"></a>) | **Última Atualização**: Indica a data do último commit realizado no repositório, mostrando a atividade recente de desenvolvimento. |
 | ⭐ | ![Estrelas](https://img.shields.io/github/stars/hiudyy/nazuna?color=yellow&label=Favoritos&style=flat-square) | **Favoritos (Estrelas)**: Representa o número de estrelas concedidas ao projeto no GitHub, um indicador direto da popularidade e do apreço da comunidade. |
 | 🍴 | ![Forks](https://img.shields.io/github/forks/hiudyy/nazuna?color=green&style=flat-square) | **Forks**: Contagem de cópias do projeto (forks) criadas por outros desenvolvedores, evidenciando o interesse em colaborar ou adaptar o bot. |
 | 🐞 | ![Issues](https://img.shields.io/github/issues/hiudyy/nazuna?color=red&style=flat-square) | **Issues**: Número de problemas reportados, sugestões de melhoria ou dúvidas levantadas pela comunidade, essenciais para o aprimoramento do bot. |
@@ -100,7 +100,7 @@ Navegue facilmente por todas as seções deste README para encontrar as informa�
 3. [📥 Instalação do nazuna Bot](#-instalação-do-nazuna-bot)
 4. [🚀 Rodando o Bot pela Primeira Vez](#-rodando-o-bot-pela-primeira-vez)
 5. [🔌 Conectando o Bot ao WhatsApp](#-conectando-o-bot-ao-whatsapp)
-6. [🔄 Atualizando o nazuna Bot](#-atualizando-o-nazuna-bot)
+6. [🔄 Atualizando o Demon Bot](#-atualizando-o-demon-bot)
 7. [💻 Tutoriais de Instalação por Plataforma](#-tutoriais-de-instalação-por-plataforma)
    - [🖥️ Windows: Guia Completo](#-windows-guia-completo)
    - [🐧 Linux: Instalação e Configuração](#-linux-instalação-e-configuração)
@@ -120,7 +120,7 @@ Navegue facilmente por todas as seções deste README para encontrar as informa�
 <details>
 <summary><strong>⚡ Início rápido para quem tem experiência</strong></summary>
 
-Se você é novo no mundo dos bots de WhatsApp e nunca instalou o nazuna Bot antes, é altamente recomendável que você siga o tutorial específico para a sua plataforma (Windows, Linux, Termux ou Pterodactyl), detalhado na seção [Tutoriais de Instalação por Plataforma](#-tutoriais-de-instalação-por-plataforma). Esses guias foram elaborados para cobrir cada etapa, minimizando possíveis erros.
+Se você é novo no mundo dos bots de WhatsApp e nunca instalou o Demon Bot antes, é altamente recomendável que você siga o tutorial específico para a sua plataforma (Windows, Linux, Termux ou Pterodactyl), detalhado na seção [Tutoriais de Instalação por Plataforma](#-tutoriais-de-instalação-por-plataforma). Esses guias foram elaborados para cobrir cada etapa, minimizando possíveis erros.
 
 Para aqueles que já têm alguma familiaridade ou já possuem os pré-requisitos instalados, siga estes passos para uma configuração rápida:
 
@@ -155,7 +155,7 @@ Para garantir que o nazuna Bot funcione perfeitamente em seu sistema, você prec
 
 ---
 
-## 📥 Instalação do nazuna Bot
+## 📥 Instalação do Demon Bot
 
 <details>
 <summary><strong>📦 Passo a passo da instalação</strong></summary>
@@ -212,7 +212,7 @@ Este comando iniciará o processo do bot e o guiará através da conexão com o 
 <details>
 <summary><strong>📱 Métodos de conexão</strong></summary>
 
-O nazuna Bot aproveita o **modo multi-dispositivos** do WhatsApp, o que significa que, após a configuração inicial, seu celular não precisa permanecer conectado à internet para que o bot funcione. Escolha o método de conexão que melhor se adapta às suas necessidades:
+O Demon Bot aproveita o **modo multi-dispositivos** do WhatsApp, o que significa que, após a configuração inicial, seu celular não precisa permanecer conectado à internet para que o bot funcione. Escolha o método de conexão que melhor se adapta às suas necessidades:
 
 ### 1. Conexão via QR Code (Recomendado para a maioria dos usuários)
 
@@ -586,28 +586,25 @@ Para aqueles que desejam rodar o nazuna Bot 24/7 em um ambiente estável e com b
 <details>
 <summary><strong>⚖️ Termos de uso e direitos</strong></summary>
 
-© 2025 **Hiudy**. Todos os direitos reservados.
+© 2025 **Tu**. Todos os direitos reservados.
 
 O **nazuna Bot** é um projeto de código aberto, mas é **protegido por copyright**. Isso significa que, embora você tenha total liberdade para editar e distribuir o bot para uso pessoal ou em sua comunidade, a **venda** do nazuna Bot ou de suas versões modificadas é estritamente proibida, pois o projeto é oferecido gratuitamente. Além disso, a remoção total dos créditos do autor é vedada. Violações destas condições podem resultar em ações legais.
 </details>
 
 ---
 
-## 👤 Sobre o Criador: Hiudy
+## 👤 Sobre o Criador: Th
 
 <details>
 <summary><strong>👨‍💻 Conheça o desenvolvedor</strong></summary>
 
-Feito com ❤️ e muitas xícaras de café por [**Hiudy**](https://github.com/hiudyy), um desenvolvedor apaixonado por criar ferramentas que tornam a tecnologia mais divertida, acessível e poderosa. Ele está constantemente inovando e dedicando seu tempo ao nazuna Bot para aprimorar a experiência de toda a comunidade.
+Feito com ❤️ e muitas xícaras de café por [**Th**](<a href="https://ibb.co/Fqdq5vQH"><img src="https://i.ibb.co/0VzVCN0s/Wd-Ac-Urq-Tj-Qp-Sfwp9f-YGy-SD.jpg" alt="Wd-Ac-Urq-Tj-Qp-Sfwp9f-YGy-SD" border="0"></a>), um desenvolvedor apaixonado por criar ferramentas que tornam a tecnologia mais divertida, acessível e poderosa. Ele está constantemente inovando e dedicando seu tempo ao Demon Bot para aprimorar a experiência de toda a comunidade.
 
-**Estatísticas do Hiudy no GitHub**:
+**Estatísticas do Th no GitHub**:
 
 | Ícone | Badge | Descrição |
 |-------|-------|-----------|
-| 👥 | ![Seguidores](https://img.shields.io/github/followers/hiudyy?color=blue&style=flat-square) | **Seguidores**: O número de pessoas que acompanham o trabalho do Hiudy no GitHub. |
-| 📝 | ![Contribuições](https://img.shields.io/github/commit-activity/y/hiudyy/nazuna) | **Contribuições**: A atividade anual de commits do Hiudy em todos os seus projetos. |
-| 💬 | ![Discord](https://img.shields.io/badge/Discord-hiudyyy-7289DA?style=flat-square&logo=discord) | **Discord**: Conecte-se diretamente com o Hiudy no Discord para trocar ideias e obter suporte. |
-| 📷 | ![Instagram](https://img.shields.io/badge/Instagram-hiudyyy_-E4405F?style=flat-square&logo=instagram) | **Instagram**: Siga o Hiudy no Instagram para ficar por dentro das últimas novidades e bastidores dos projetos. |
+| 👥 | ![Seguidores](https://img.shields.io/github/followers/hiudyy?color=blue&style=flat-square) | **Seguidores**: O número de pessoas que acompanham o trabalho do Th no GitHub
 
 **Bio**:  
 Th é um entusiasta de tecnologia que se dedica a criar soluções práticas, inovadoras e com um toque de diversão. Além do nazuna Bot, ele contribui ativamente para diversos projetos open-source e valoriza a interação e o feedback da comunidade. Conecte-se com ele nas redes sociais para acompanhar seus próximos projetos e aventuras no mundo da programação!
